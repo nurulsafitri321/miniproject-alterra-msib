@@ -16,7 +16,9 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Login'),
+        
       ),
+      
       body: Container(
         padding: const EdgeInsets.all(16.0),
         child: Column(
@@ -82,6 +84,7 @@ class _LoginPageState extends State<LoginPage> {
                           ),
                         ],
                       );
+                      
                     },
                   );
                 }

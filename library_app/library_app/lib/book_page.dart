@@ -100,4 +100,8 @@ class Book {
     required this.publisher,
     required this.yearPublished,
   });
+
+  // String get description => null;
+
+  // String get coverImage => null;
 }
