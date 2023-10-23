@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "judul": "Harry Potter and the Sorcerer's Stone",
+        "penulis": "J.K. Rowling",
+        "penerbit": "Bloomsbury",
+        "kategori": "Fantasy",
+        "stok": 10
+    },
+    {
+        "id": 2,
+        "judul": "The Lord of the Rings",
+        "penulis": "J.R.R. Tolkien",
+        "penerbit": "George Allen & Unwin",
+        "kategori": "Fantasy",
+        "stok": 5
+    },
+    {
+        "id": 3,
+        "judul": "The Hunger Games",
+        "penulis": "Suzanne Collins",
+        "penerbit": "Scholastic Press",
+        "kategori": "Dystopian",
+        "stok": 20
+    }
+]

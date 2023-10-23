@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nama": "John Doe",
+        "alamat": "Jl. Jendral Sudirman No. 10, Jakarta Selatan",
+        "nomor_telepon": "081234567890"
+    },
+    {
+        "id": 2,
+        "nama": "Jane Doe",
+        "alamat": "Jl. Gatot Subroto No. 20, Jakarta Pusat",
+        "nomor_telepon": "082345678901"
+    },
+    {
+        "id": 3,
+        "nama": "Budi Santoso",
+        "alamat": "Jl. Mangga Besar No. 30, Jakarta Barat",
+        "nomor_telepon": "083456789012"
+    }
+]
